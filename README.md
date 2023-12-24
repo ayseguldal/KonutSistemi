@@ -1,2 +1,3 @@
-# KonutSistemi
- Ev sahibi ve kiracıları listeleyen konut sistemi.
+# KonutSistemi Projesinin Amacı
+ Ev sahibi ve kiracıları ve bunlara ait bilgileri listelemektir.
+ 
